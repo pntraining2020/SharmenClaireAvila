@@ -1,0 +1,17 @@
+.card{
+    margin-top: 5%;
+    width: 50%;
+    margin: auto;
+}
+.content{
+   margin: 3% 0 3% 0;
+}
+.container{
+    margin: 2% 0 0 0;
+}
+.btn {
+    margin: 3% 0 3% 0;
+}
+#time{
+    font-weight: bold;
+}
